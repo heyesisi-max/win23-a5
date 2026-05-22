@@ -1,0 +1,8 @@
+insertionsort
+j -= 1
+return array
+return quicksort(left) + [pivot] + quicksort(right)
+return quicksort(left) + [pivot] + quicksort(right)
+for i in range(low, high):
+quicksort_inplace(array, j+2, high)
+
